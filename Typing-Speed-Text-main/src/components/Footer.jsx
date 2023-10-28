@@ -14,16 +14,16 @@ const Footer = () => {
   return (
     <div className="footer">
       <div className="links">
-        <a href="https://github.com/ashwanimaurya85/Typing-Speed-Text" target="_blank">
+        <a href="https://github.com/shubhamsharmaproch/Typing_Speed_Main" target="_blank">
           <GitHubIcon />
         </a>
-        <a href="https://www.linkedin.com/in/ashwani-kumar-48b28721a/" target="_blank">
+        <a href="https://www.linkedin.com/in/shubham-sharma-51613a244/" target="_blank">
           <LinkedInIcon />
         </a>
-        <a href="https://twitter.com/Ashwani89142771" target="_blank">
+        <a href="https://twitter.com/" target="_blank">
           <TwitterIcon />
         </a>
-        <a href="https://www.instagram.com/ashwani.maurya.1213986/" target="_blank">
+        <a href="https://www.instagram.com/" target="_blank">
           <InstagramIcon />
         </a>
       </div>
